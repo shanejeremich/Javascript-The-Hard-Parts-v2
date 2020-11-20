@@ -1,5 +1,5 @@
 /*
-Goes through code line-by-line and runes/executes each line - known as the thread of execution
+Goes through code line-by-line and rune/executes each line - known as the thread of execution
 Saves 'data' like strings and arrays so we can use that data later - in its memory
 */
 
